@@ -8,3 +8,9 @@ module.exports = async (browser, context) => {
     localStorage.setItem('@backstage/core:SignInPage:provider', 'guest');
   });
 };
+
+в
+в
+в
+
+в
